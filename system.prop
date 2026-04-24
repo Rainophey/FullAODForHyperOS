@@ -1,2 +1,6 @@
 # FAOD refresh rate from popsicle odm/etc/build.prop line.203
 ro.vendor.mi_sf.aod_mode_ddic_refresh_rate=1
+
+# Super resolution & Smart frame rate
+ro.vendor.gpp.frc.support=true
+ro.vendor.xiaomi.sr.support=true
